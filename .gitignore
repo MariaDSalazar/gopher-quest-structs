@@ -1,2 +1,7 @@
 _fuente/
 _prueba/
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db

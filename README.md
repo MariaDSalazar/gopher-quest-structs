@@ -19,6 +19,10 @@ Al terminar aparece un informe de entendimiento por tema (primer intento de cada
 
 Todo el contenido va cifrado y en cadena: cada reto se abre solo después de resolver bien el anterior.
 
+## Jugar
+
+Se juega en https://mariadsalazar.github.io/gopher-quest-structs/.
+
 ## Ejecutar en local
 
 Es un sitio estático. Desde la carpeta del repositorio:
